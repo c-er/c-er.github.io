@@ -35,9 +35,16 @@ em {
 }
 
 .wrapper {
-    max-width: 700px;
     margin: 0 auto;
     padding: 0 30px;
+}
+
+@media only screen and (max-width: 600px) {
+    .wrapper {max-width: 100%}
+}
+
+@media only screen and (min-width: 601px) {
+    .wrapper {max-width: 60%}
 }
 
 #main-header {

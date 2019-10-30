@@ -6,4 +6,5 @@ comments: false
 author_footer: false
 ---
 
-About page, add content here. 
+I am a junior studying Computer Science and Mathematics at Carnegie Mellon
+University.
