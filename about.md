@@ -73,3 +73,10 @@ University.
 - 21-356 Principles of Real Analysis II
 - 21-651 General Topology
 - 73-102 Principles of Microeconomics
+
+## Spring 2021
+- 10-701 Machine Learning
+- 21-260 Differential Equations
+- 21-599 Undergraduate Reading and Research
+- 82-171 Elementary Japanese I
+- 98-239 Stuco: League of Legends
